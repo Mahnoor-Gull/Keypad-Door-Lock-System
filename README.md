@@ -157,5 +157,5 @@ void incorrect() {
 🚀 **Secure Your Home with Arduino!** 🏠
 
  # **PROJECT DIAGRAM**
-![Uploading Door Lock.gif…]()
+
   
