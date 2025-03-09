@@ -157,5 +157,4 @@ void incorrect() {
 🚀 **Secure Your Home with Arduino!** 🏠
 
  # **PROJECT DIAGRAM**
-g
-  
+![Image](https://github.com/user-attachments/assets/1235bcd6-cf02-4229-bbed-a634ed1c15df)
